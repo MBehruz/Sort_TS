@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "first_name": "Isador",
+    "last_name": "Kruger",
+    "email": "ikruger0@huffingtonpost.com",
+    "gender": "Male",
+    "dob": "2023-04-28T11:19:35Z",
+    "sunRow": [
+      {
+        "first_name": "Brady",
+        "last_name": "Gommery",
+        "email": "bgommery1@amazon.de",
+        "gender": "Male",
+        "dob": "2022-12-11T17:35:54Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "first_name": "Brady",
+    "last_name": "Gommery",
+    "email": "bgommery1@amazon.de",
+    "gender": "Male",
+    "dob": "2022-12-11T17:35:54Z",
+    "subRows": [
+      {
+        "first_name": "Brady",
+        "last_name": "Gommery",
+        "email": "bgommery1@amazon.de",
+        "gender": "Male",
+        "dob": "2022-12-11T17:35:54Z"
+      }
+    ]
+  }
+]

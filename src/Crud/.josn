@@ -1,0 +1,25 @@
+// {
+//   "users": [
+//     {
+//       "first_name": "tst",
+//       "last_name": "tst",
+//       "email": "alibek@gmail.com",
+//       "gender": "other",
+//       "id": "2bbf"
+//     },
+//     {
+//       "first_name": "dde",
+//       "last_name": "Muxammadjonov",
+//       "email": "demo@minimals.cc",
+//       "gender": "female",
+//       "id": "7ca2"
+//     },
+//     {
+//       "first_name": "rerrererer",
+//       "last_name": "ererere",
+//       "email": "rerere",
+//       "gender": "male",
+//       "id": "b0c9"
+//     }
+//   ]
+// }
